@@ -1,0 +1,2 @@
+# docs
+MOOSE documentation
